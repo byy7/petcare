@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AdminController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,9 +22,18 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('admin',function(){
-    return view('admin');
-})->middleware('CheckRole:admin');
+// Route::get('user',function(){
+//     return view('admin');
+// })->middleware('CheckRole:admin');
+
+Route::group(['middleware'=>['CheckRole:admin']],function(){
+    Route::get('admin', [AdminController::class, 'view']);
+    Route::get('admin/show/{id}',[AdminController::class,'tampil']);
+    Route::post('admin/update',[AdminController::class,'update']);
+    Route::get('admin/edit/{id}',[AdminController::class,'edit']);
+    // Route::get('admin/cari',[AdminController::class,'cari']);
+    Route::get('admin/hapus/{id}',[AdminController::class,'hapus']);
+});
 
 Route::get('user',function(){
     return view('user');
