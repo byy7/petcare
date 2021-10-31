@@ -63,11 +63,11 @@
                   @auth
                       <a href="{{ url('/home') }}" class="btn btn-outline-success">{{ Auth::user()->name }}</a>
                   @else
-                      <a href="{{ route('login') }}" class="btn btn-outline-success">Log in</a>
+                      <a href="{{ route('login') }}" class="btn btn-outline-success">Login</a>
           
-                      @if (Route::has('register'))
+                      {{-- @if (Route::has('register'))
                           <a href="{{ route('register') }}" class="btn btn-outline-success">Register</a>
-                      @endif
+                      @endif --}}
                   @endauth
           @endif
                 </li>
