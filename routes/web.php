@@ -38,3 +38,8 @@ Route::group(['middleware'=>['CheckRole:admin']],function(){
 Route::get('user',function(){
     return view('user');
 })->middleware(['CheckRole:user,admin']);
+
+Route::get('/logout',function(){
+    Auth::logout();
+    redirect('/');
+});
