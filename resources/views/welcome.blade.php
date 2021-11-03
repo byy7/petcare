@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
+<head>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
 
-    <title>petcare</title>
+  <title>petcare</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap core CSS -->
+  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 
-    <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="/assets/css/templatemo-seo-dream.css">
-    <link rel="stylesheet" href="/assets/css/animated.css">
-    {{-- <link rel="stylesheet" href="/assets/css/owl.css"> --}}
+  <!-- Additional CSS Files -->
+  <link rel="stylesheet" href="/assets/css/fontawesome.css">
+  <link rel="stylesheet" href="/assets/css/templatemo-seo-dream.css">
+  <link rel="stylesheet" href="/assets/css/animated.css">
+  {{-- <link rel="stylesheet" href="/assets/css/owl.css"> --}}
 
 
 </head>
@@ -55,12 +55,14 @@
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
               <li class="scroll-to-section"><a href="#about">About Us</a></li>
-              <li class="scroll-to-section"><a href="#services">Services</a></li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
-              <li class="scroll-to-section"><div class="main-blue-button"><a href="{{ url('login') }}">LOGIN</a></div></li> 
-            </ul>        
+              <li class="scroll-to-section"><a href="#features">Services</a></li>
+              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class="scroll-to-section">
+                <div class="main-blue-button"><a href="{{ url('login') }}">LOGIN</a></div>
+              </li>
+            </ul>
             <a class='menu-trigger'>
-                <span>Menu</span>
+              <span>Menu</span>
             </a>
             <!-- ***** Menu End ***** -->
           </nav>
@@ -80,20 +82,22 @@
                 <div class="row">
                   <div class="col-lg-4 col-sm-4">
                     <div class="info-stat">
-                      <h6>CPO</h6>
+                      <h6>Team : </h6>
+                      <h4>Qory Ichsan</h4>
+                      <h4>M Faraby</h4>
                       <h4>Rizki Utami</h4>
                     </div>
                   </div>
                   <div class="col-lg-4 col-sm-4">
                     <div class="info-stat">
-                      <h6>CEO</h6>
-                      <h4>Muhammad Faraby</h4>
+                      <h6></h6>
+                      <h4></h4>
                     </div>
                   </div>
                   <div class="col-lg-4 col-sm-4">
                     <div class="info-stat">
-                      <h6>CTO</h6>
-                      <h4>Qory Ichsan</h4>
+                      <h6>Lomba : </h6>
+                      <h4>IT FESTIVAL 2021</h4>
                     </div>
                   </div>
                   <div class="col-lg-12">
@@ -236,7 +240,7 @@
     </div>
   </div>
 
-  
+
 
   <div id="services" class="our-services section">
     <div class="container">
@@ -272,7 +276,7 @@
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                  <img src="assets/images/login.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
@@ -289,7 +293,7 @@
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                  <img src="assets/images/register.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
@@ -305,7 +309,7 @@
     </div>
   </div>
 
-  
+
 
   <div id="contact" class="contact-us section">
     <div class="container">
@@ -343,7 +347,7 @@
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
@@ -388,7 +392,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2021 PetCare, Ltd. All Rights Reserved. 
+          <p>Copyright © 2021 PetCare, Ltd. All Rights Reserved.
         </div>
       </div>
     </div>
@@ -403,4 +407,5 @@
   <script src="/assets/js/custom.js"></script>
 
 </body>
+
 </html>
