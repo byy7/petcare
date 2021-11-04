@@ -98,7 +98,7 @@
     <section class="content container-fluid">
       @foreach($show as $a)
         <div class="text-center">
-            <img src="/img/user.png" alt="user" width="10%" height="10%">
+            <img src="/img/user.png" alt="user" width="25%" height="25%">
             <h3><strong>{{ $a ->role }}</strong></h3><br>
             <h4><strong>Nama : {{ $a ->name }}</strong></h4>
             <h4><strong>Email : {{ $a ->email }}</strong></h4>
