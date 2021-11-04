@@ -70,9 +70,6 @@ https://templatemo.com/tm-563-seo-dream
               <li class="scroll-to-section"><a href="#about">About Us</a></li>
               <li class="scroll-to-section"><a href="#services">Services</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
-              <a href="{{ url('admin') }}">ADMIN</a>
-              <a href="{{ url('user') }}">USER</a>
-              
               <li class="scroll-to-section"><div class="main-blue-button"><a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
                 {{ Auth::user()->name }}
             </a>
@@ -415,8 +412,8 @@ https://templatemo.com/tm-563-seo-dream
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2021 PetCare.com, Ltd. All Rights Reserved. 
-          
+          <p>Copyright © 2021 PetCare.com, Ltd. All Rights Reserved.
+            <a href="{{ url('admin') }}">Admin?</a> 
         </div>
       </div>
     </div>
