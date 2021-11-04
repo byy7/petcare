@@ -96,34 +96,36 @@
 
     <!-- Main content -->
     <section class="content container-fluid">
-      <table border="1" class="table table-dark table-hover table-responsive bg-info text-center">
-        <thead>
-          <tr>
-            <th scope="col">ID</th>
-            <th scope="col">NAMA</th>
-            <th scope="col">EMAIL</th>
-            <th scope="col">ROLE</th>
-            <th scope="col">TANGGAL PEMBUATAN AKUN</th>
-            <th scope="col">Aksi</th>
-          </tr>
-        </thead>
-        @foreach($admin as $a)
-        <tbody>
-          <tr>
-            <th scope="row">{{ $loop->iteration }}</th>
-            <td>{{ $a->name }}</td>
-            <td>{{ $a->email }}</td>
-            <td>{{ $a->role }}</td>
-            <td>{{ $a->created_at }}</td>
-            <td align="center">
-              <a class="btn btn-success btn-sm" href="admin/show/{{ $a->id }}">Show</a>
-              <a class="btn btn-warning btn-sm" href="admin/edit/{{ $a->id }}">Edit</a>
-              <a class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data?')" href="/admin/hapus/{{ $a->id }}" >Hapus</a>
-              </td>
-          </tr>
-        @endforeach
-        </tbody>
-      </table>
+      <div class="table-responsive">
+        <table border="1" class="table table-dark table-hover table-responsive bg-info text-center">
+          <thead>
+            <tr>
+              <th scope="col">ID</th>
+              <th scope="col">NAMA</th>
+              <th scope="col">EMAIL</th>
+              <th scope="col">ROLE</th>
+              <th scope="col">TANGGAL PEMBUATAN AKUN</th>
+              <th scope="col">Aksi</th>
+            </tr>
+          </thead>
+          @foreach($admin as $a)
+          <tbody>
+            <tr>
+              <th scope="row">{{ $loop->iteration }}</th>
+              <td>{{ $a->name }}</td>
+              <td>{{ $a->email }}</td>
+              <td>{{ $a->role }}</td>
+              <td>{{ $a->created_at }}</td>
+              <td align="center">
+                <a class="glyphicon glyphicon-info-sign" style="color: #20c997" href="admin/show/{{ $a->id }}">&emsp;</a>
+                <a class="glyphicon glyphicon-edit" style="color: #fd7e14" href="admin/edit/{{ $a->id }}">&emsp;</a>
+                <a class="glyphicon glyphicon-trash" style="color: #d63384" onclick="return confirm('Yakin ingin menghapus data?')" href="/admin/hapus/{{ $a->id }}" ></a>
+                </td>
+            </tr>
+          @endforeach
+          </tbody>
+        </table>
+      </div>
       <br>
       Halaman : {{ $admin->currentPage() }} <br>
       Jumlah Data : {{ $admin->total() }} <br>
@@ -137,10 +139,7 @@
   <!-- Main Footer -->
   <footer class="main-footer">
     <!-- To the right -->
-    {{-- <div class="pull-right hidden-xs">
-        <img src="assets/img/ig.png" alt="Instagram">
-      <a href="https://www.instagram.com/kantahkabbanyuasin/" target="_blank">kantahkabbanyuasin</a>
-    </div> --}}
+  
     <!-- Default to the left -->
     <section class="text-center">
       <strong>Copyright &copy; {{ date('Y') }} Young Dev</strong>
