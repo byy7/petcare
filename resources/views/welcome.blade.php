@@ -156,7 +156,7 @@
               </div>
             </div>
           </div>
-          <p><a rel="nofollow" href="https://templatemo.com/tm-563-seo-dream" target="_parent">Pet Care</a> is a place that you can find whatever your pet need. Pet clinic, food, train, etc.</p>
+          <p><a rel="nofollow" href="/" target="_parent">Pet Care</a> is a place that you can find whatever your pet need. Pet clinic, food, train, etc.</p>
         </div>
       </div>
     </div>
@@ -169,7 +169,7 @@
           <div class="col-lg-5">
             <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
               <h6>Our Products</h6>
-              <h2>Create an account or Login <em>to discover our product</em> And <span>Forum</span></h2>
+              <h2>Create an account or Login <em>to discover our products</em> And <span>Forum</span></h2>
             </div>
           </div>
         </div>

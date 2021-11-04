@@ -285,6 +285,7 @@ body {
     border-radius: 23px;
     letter-spacing: 0.25px;
     border-bottom: 2px solid #fff !important;
+    border-right: 3px solid #fff !important;
     transition: all 0.3s;
 }
 
@@ -292,6 +293,7 @@ body {
     background-color: #fff !important;
     color: #4771cb !important;
     border-bottom: 2px solid #4771cb !important;
+    border-right: 3px solid #4771cb !important;
 }
 
 .main-green-button a {
