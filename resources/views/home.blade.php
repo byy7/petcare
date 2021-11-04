@@ -11,6 +11,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
 
     <title>petcare</title>
+    <link rel="icon" href="{{ URL::asset('img/logo.jpg') }}">
+
 
      {{-- Logout --}}
      <script src="{{ asset('js/app.js') }}" defer></script>

@@ -7,19 +7,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
+
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
     <title>petcare</title>
-
+    <link rel="icon" href="{{ URL::asset('img/logo.jpg') }}">
+    
+     {{-- Logout --}}
+     <script src="{{ asset('js/app.js') }}" defer></script>
 
     <!-- ===============================================-->
     <!--    Favicons-->
     <!-- ===============================================-->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicons/favicon.ico">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="assets/img/favicons/mstile-150x150.png">
     <meta name="theme-color" content="#ffffff">
@@ -59,7 +59,22 @@
                   <li class="scroll-to-section"><a href="#about">About Us</a></li>
                   <li class="scroll-to-section"><a href="#services">Services</a></li>
                   <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
-                  <li class="scroll-to-section"><div class="main-blue-button"><a href="{{ url('login') }}">LOGIN</a></div></li> 
+                  <li class="scroll-to-section"><div class="main-blue-button"><a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
+                    {{ Auth::user()->name }}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <center>
+                    <a class="dropdown-item" href="{{ route('logout') }}"
+                       onclick="event.preventDefault();
+                                     document.getElementById('logout-form').submit();">
+                        {{ __('Logout') }}
+                    </a>
+                </center>
+                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                        @csrf
+                    </form>
+                </div>
+                </li>
                 </ul>        
                 <a class='menu-trigger'>
                     <span>Menu</span>
