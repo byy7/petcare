@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
 
     <title>petcare</title>
-    <link rel="icon" href="{{ URL::asset('img/logo.jpg') }}">
+    <link rel="icon" href="{{ URL::asset('img/logo.png') }}">
 
 
      {{-- Logout --}}
@@ -211,7 +211,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -225,7 +225,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -239,7 +239,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>If this template is useful for your website, please consider to <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -253,7 +253,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -298,7 +298,7 @@ https://templatemo.com/tm-563-seo-dream
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                  <img src="assets/images/frb.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
@@ -315,7 +315,7 @@ https://templatemo.com/tm-563-seo-dream
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                  <img src="assets/images/tamik.jpeg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">

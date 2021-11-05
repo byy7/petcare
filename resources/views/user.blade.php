@@ -113,8 +113,8 @@
                       <div class="card card-span h-100 text-white"><img class="img-fluid" src="assets/images/petShop/suplemen/bigiCat.jpg" alt="..." />
                         <div class="card-img-overlay ps-0"> </div>
                         <div class="card-body ps-0 bg-200">
-                          <h5 class="fw-bold text-1000 text-truncate">Bigi Cat</h5>
-                          <div class="fw-bold"><span class="text-600 me-2 text-decoration-line-through">Rp. 120.000</span><span class="text-primary">Rp. 75.000</span></div>
+                          <h5 class="fw-bold text-1000 text-truncate text-center">Bigi Cat</h5>
+                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 120.000</span><span class="text-primary">Rp. 75.000</span></div>
                         </div><a class="stretched-link" href="#"></a>
                       </div>
                     </div>
@@ -122,8 +122,8 @@
                       <div class="card card-span h-100 text-white"><img class="img-fluid" src="assets/images/petShop/suplemen/wookuWooku.jpg" alt="..." />
                         <div class="card-img-overlay ps-0"> </div>
                         <div class="card-body ps-0 bg-200">
-                          <h5 class="fw-bold text-1000 text-truncate">Wooku Wooku</h5>
-                          <div class="fw-bold"><span class="text-600 me-2 text-decoration-line-through">Rp. 40.000</span><span class="text-primary">Rp. 25.000</span></div>
+                          <h5 class="fw-bold text-1000 text-truncate text-center">Wooku Wooku</h5>
+                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 40.000</span><span class="text-primary">Rp. 25.000</span></div>
                         </div><a class="stretched-link" href="#"></a>
                       </div>
                     </div>
@@ -131,8 +131,8 @@
                       <div class="card card-span h-100 text-white" style=" height: 100px;"><img class="img-fluid" src="assets/images/petShop/suplemen/pumpkinBoost.jpg" alt="..." />
                         <div class="card-img-overlay ps-0"> </div>
                         <div class="card-body ps-0 bg-200">
-                          <h5 class="fw-bold text-1000 text-truncate">Pumpkin Boost</h5>
-                          <div class="fw-bold"><span class="text-600 me-2 text-decoration-line-through">Rp. 35.000</span><span class="text-primary">Rp. 28.000</span></div>
+                          <h5 class="fw-bold text-1000 text-truncate text-center">Pumpkin Boost</h5>
+                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 35.000</span><span class="text-primary">Rp. 28.000</span></div>
                         </div><a class="stretched-link" href="#"></a>
                       </div>
                     </div>
@@ -140,8 +140,8 @@
                       <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/suplemen/dermatrix.jpg" alt="..." />
                         <div class="card-img-overlay ps-0"> </div>
                         <div class="card-body ps-0 bg-200">
-                          <h5 class="fw-bold text-1000 text-truncate">Dermatrix</h5>
-                          <div class="fw-bold"><span class="text-600 me-2 text-decoration-line-through">Rp. 89.000</span><span class="text-primary">Rp. 77.000</span></div>
+                          <h5 class="fw-bold text-1000 text-truncate text-center">Dermatrix</h5>
+                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 89.000</span><span class="text-primary">Rp. 77.000</span></div>
                         </div><a class="stretched-link" href="#"></a>
                       </div>
                     </div>
@@ -166,52 +166,61 @@
     <section>
 
       <div class="container pt-4">
-        <div class="row h-100 g-0">
+        <div class="row h-100 g-2">
           <div class="col-md-6">
             <div class="bg-300 p-4 h-100 d-flex flex-column justify-content-center">
-              <h4 class="text-800">Exclusive Product 2021</h4>
-              <p class="mb-5 fs-1">The best everyday option in a Super Saver range within a reasonable price. It is our responsibility to keep your pet 100 percent Health. Be smart &amp; , Happy with us.</p>
+              <h4 class="text-800 text-center">Exclusive Product 2021</h4><br>
+              <p class="mb-5 fs-2 text-center">"The best everyday option in a Super Saver range within a reasonable price. It is our responsibility to keep your pet 100 percent Health. Be smart, Happy with us."</p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="card card-span h-100 text-white"><img class="card-img h-100" src="assets/images/kucing.jpg" alt="..." />
               <div class="card-img-overlay bg-dark-gradient">
-                <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">
+                {{-- <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">
                     <svg class="bi bi-arrow-right-short" xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"> </path>
-                    </svg></a></div>
+                    </svg></a></div> --}}
               </div>
             </div>
           </div>
         </div>
-        <div class="row h-100 g-2 py-1">
+        <div class="row h-100 g-2 py-4">
           <div class="col-md-4">
             <div class="card card-span h-100 text-white"><img class="card-img h-100" src="assets/images/petShop/obat/virbac.jpg" alt="..." />
               <div class="card-img-overlay bg-dark-gradient">
-                <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Helath
+                {{-- <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Health
                     <svg class="bi bi-arrow-right-short" xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"> </path>
-                    </svg></a></div>
+                    </svg></a></div> --}}
+                    <div class="d-flex align-items-end justify-content-center h-100">
+                      <h4 class="btn btn-lg text-light fs-1">Pet Health</h4>
+                    </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="card card-span h-100 text-white"><img class="card-img h-100" src="assets/images/petShop/makanan/whiskas1.jpg" alt="..." />
               <div class="card-img-overlay bg-dark-gradient">
-                <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Food
+                {{-- <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Food
                     <svg class="bi bi-arrow-right-short" xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"> </path>
-                    </svg></a></div>
+                    </svg></a></div> --}}
+                    <div class="d-flex align-items-end justify-content-center h-100">
+                      <h4 class="btn btn-lg text-light fs-1">Pet Food</h4>
+                    </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="card card-span h-100 text-white"><img class="card-img h-100" src="assets/images/petShop/shampo/earthbath.jpg" alt="..." />
               <div class="card-img-overlay bg-dark-gradient">
-                <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Grooming
+                {{-- <div class="d-flex align-items-end justify-content-center h-100"><a class="btn btn-lg text-light fs-1" href="#!" role="button">Pet Grooming
                     <svg class="bi bi-arrow-right-short" xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" viewBox="0 0 16 16">
                       <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"> </path>
-                    </svg></a></div>
+                    </svg></a></div> --}}
+                    <div class="d-flex align-items-end justify-content-center h-100">
+                      <h4 class="btn btn-lg text-light fs-1">Pet Grooming</h4>
+                    </div>
               </div>
             </div>
           </div>
@@ -272,8 +281,8 @@
                                 <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/obat/frontLine.jpg" alt="..." />
                                   <div class="card-img-overlay ps-0"> </div>
                                   <div class="card-body ps-0 bg-200">
-                                    <h5 class="fw-bold text-1000 text-truncate">Frontliner</h5>
-                                    <div class="fw-bold"><span class="text-primary">Rp. 200.000</span></div>
+                                    <h5 class="fw-bold text-1000 text-truncate text-center">Frontliner</h5>
+                                    <div class="fw-bold text-center"><span class="text-primary">Rp. 200.000</span></div>
                                   </div><a class="stretched-link" href="#"></a>
                                 </div>
                               </div>
@@ -281,8 +290,8 @@
                                 <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/obat/kindKind.jpg" alt="..." />
                                   <div class="card-img-overlay ps-0"> </div>
                                   <div class="card-body ps-0 bg-200">
-                                    <h5 class="fw-bold text-1000 text-truncate">Kind Kind</h5>
-                                    <div class="fw-bold"><span class="text-primary">Rp. 75.000</span></div>
+                                    <h5 class="fw-bold text-1000 text-truncate text-center">Kind Kind</h5>
+                                    <div class="fw-bold text-center"><span class="text-primary">Rp. 75.000</span></div>
                                   </div><a class="stretched-link" href="#"></a>
                                 </div>
                               </div>
@@ -290,8 +299,8 @@
                                 <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/obat/revolution.jpg" alt="..." />
                                   <div class="card-img-overlay ps-0"> </div>
                                   <div class="card-body ps-0 bg-200">
-                                    <h5 class="fw-bold text-1000 text-truncate">Revolution</h5>
-                                    <div class="fw-bold"><span class="text-primary">Rp. 90.000</span></div>
+                                    <h5 class="fw-bold text-1000 text-truncate text-center">Revolution</h5>
+                                    <div class="fw-bold text-center"><span class="text-primary">Rp. 90.000</span></div>
                                   </div><a class="stretched-link" href="#"></a>
                                 </div>
                               </div>
@@ -299,8 +308,8 @@
                                 <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/obat/veterinary.jpg" alt="..." />
                                   <div class="card-img-overlay ps-0"> </div>
                                   <div class="card-body ps-0 bg-200">
-                                    <h5 class="fw-bold text-1000 text-truncate">veterinary</h5>
-                                    <div class="fw-bold"><span class="text-primary">Rp. 170.000</span></div>
+                                    <h5 class="fw-bold text-1000 text-truncate text-center">veterinary</h5>
+                                    <div class="fw-bold text-center"><span class="text-primary">Rp. 170.000</span></div>
                                   </div><a class="stretched-link" href="#"></a>
                                 </div>
                               </div>
@@ -330,8 +339,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/makanan/proplan.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Pro Plan</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 230.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Pro Plan</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 230.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -339,8 +348,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/makanan/royalCanin.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Royal Canin</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 460.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Royal Canin</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 460.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -348,8 +357,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/makanan/felibite.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Felibite</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 120.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Felibite</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 120.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -357,8 +366,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/makanan/friskies.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Friskies</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 180.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Friskies</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 180.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -381,8 +390,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/shampo/bioline.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Bio Line</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 20.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Bio Line</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 20.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -390,8 +399,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/shampo/meowPlus.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Meow Plus</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 25.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Meow Plus</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -399,8 +408,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/shampo/bio.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Bio</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 25.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Bio</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -408,8 +417,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/shampo/pro-v.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Pro-V</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 60.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Pro-V</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 60.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -432,8 +441,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/kandang/c221.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Cage C221</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 320.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Cage C221</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 320.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -441,8 +450,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/kandang/cage.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Medium Cage</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 250.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Medium Cage</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 250.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -450,8 +459,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/kandang/hp1.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Large Cage</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 350.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Large Cage</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 350.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -459,8 +468,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/kandang/transparant.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Transparant Cage</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 450.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Transparant Cage</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 450.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -483,8 +492,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/snack/meo.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Me-O</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 35.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Me-O</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 35.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -492,8 +501,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/snack/sheba.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Sheba</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 34.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Sheba</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 34.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -501,8 +510,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/snack/supercat.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Super Cat</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 26.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Super Cat</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 26.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -510,8 +519,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/snack/bio.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Bio Snack</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 15.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Bio Snack</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 15.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -534,8 +543,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/pasir/silicat.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Silicat</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 26.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Silicat</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 26.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -543,8 +552,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/pasir/kitCat.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Kit Cat</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 45.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Kit Cat</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 45.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -552,8 +561,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/pasir/fifiLitter.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Fifi Litter</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 25.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Fifi Litter</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -561,8 +570,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/pasir/catsBest.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Cats Best</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 40.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Cats Best</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 40.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -585,8 +594,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/susu/beaphar.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Beaphar</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 30.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Beaphar</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 30.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -594,8 +603,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/susu/topGrowth.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Top Growth</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 36.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Top Growth</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 36.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -603,8 +612,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/susu/royal.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Royal</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 34.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Royal</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 34.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -612,8 +621,8 @@
                           <div class="card card-span h-100 text-white"><img class="img-fluid h-100" src="assets/images/petShop/susu/ameri.jpg" alt="..." />
                             <div class="card-img-overlay ps-0"> </div>
                             <div class="card-body ps-0 bg-200">
-                              <h5 class="fw-bold text-1000 text-truncate">Ameri</h5>
-                              <div class="fw-bold"><span class="text-primary">Rp. 20.000</span></div>
+                              <h5 class="fw-bold text-1000 text-truncate text-center">Ameri</h5>
+                              <div class="fw-bold text-center"><span class="text-primary">Rp. 20.000</span></div>
                             </div><a class="stretched-link" href="#"></a>
                           </div>
                         </div>
@@ -711,10 +720,15 @@
   <!-- ===============================================-->
   <!--    End of Main Content-->
   <!-- ===============================================-->
-
-
-
-
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © 2021 PetCare, Ltd. All Rights Reserved.
+        </div>
+      </div>
+    </div>
+  </footer>
   <!-- ===============================================-->
   <!--    JavaScripts-->
   <!-- ===============================================-->

@@ -188,7 +188,7 @@
                   <div class="line-dec"></div>
                   <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
                   <div class="main-green-button">
-                    <a href="{{ url('login') }}">Shop Now!</a>
+                    <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
               </div>
@@ -202,7 +202,7 @@
                   <div class="line-dec"></div>
                   <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
                   <div class="main-green-button">
-                    <a href="{{ url('login') }}">Shop Now!</a>
+                    <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
               </div>
@@ -216,7 +216,7 @@
                   <div class="line-dec"></div>
                   <p>If this template is useful for your website, please consider to <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little.</p>
                   <div class="main-green-button">
-                    <a href="{{ url('login') }}">Shop Now!</a>
+                    <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
               </div>
@@ -230,7 +230,7 @@
                   <div class="line-dec"></div>
                   <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
                   <div class="main-green-button">
-                    <a href="{{ url('login') }}">Shop Now!</a>
+                    <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
               </div>
