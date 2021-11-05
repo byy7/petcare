@@ -19,7 +19,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link rel="icon" href="img/logo.jpg">
+    <link rel="icon" href="img/logo.png">
 </head>
 
 <body>

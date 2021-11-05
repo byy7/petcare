@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
 
     <title>petcare</title>
-    <link rel="icon" href="{{ URL::asset('img/logo.jpg') }}">
+    <link rel="icon" href="{{ URL::asset('img/logo.png') }}">
 
 
      {{-- Logout --}}
@@ -298,8 +298,13 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
             <div class="row">
               <div class="col-lg-4">
+<<<<<<< HEAD
                 <div class="ourteam">
                   <img class="ourteam" src="assets/images/rai.jpeg" alt="">
+=======
+                <div class="icon">
+                  <img src="assets/images/frb.jpg" alt="">
+>>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
                 </div>
               </div>
               <div class="col-lg-8">
@@ -316,8 +321,13 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
             <div class="row">
               <div class="col-lg-4">
+<<<<<<< HEAD
                 <div class="ourteam">
                   <img class="ourteam" src="assets/images/tamik.png" alt="">
+=======
+                <div class="icon">
+                  <img src="assets/images/tamik.jpeg" alt="">
+>>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
                 </div>
               </div>
               <div class="col-lg-8">
