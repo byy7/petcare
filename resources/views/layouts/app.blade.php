@@ -18,6 +18,8 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+    
+    <link rel="stylesheet" href="/adminLTE/bower_components/Ionicons/css/ionicons.min.css"/>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="icon" href="img/logo.png">
 </head>

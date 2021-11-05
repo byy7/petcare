@@ -186,8 +186,8 @@
                   <div class="icon"><img src="assets/images/clinic.png" alt="clinic"></div>
                   <h4>Pet Clinic</h4>
                   <div class="line-dec"></div>
-                  <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
-                  <div class="main-green-button">
+                  <p>Get your pet more healthy and more happy.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
@@ -200,8 +200,8 @@
                   <div class="icon "><img src="assets/images/grooming.png" alt="grooming"></div>
                   <h4>Pet Grooming</h4>
                   <div class="line-dec"></div>
-                  <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
-                  <div class="main-green-button">
+                  <p>Groom your pet with the best service from us.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
@@ -214,8 +214,8 @@
                   <div class="icon"><img src="assets/images/training.png" alt="training"></div>
                   <h4>Pet Sitter</h4>
                   <div class="line-dec"></div>
-                  <p>If this template is useful for your website, please consider to <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little.</p>
-                  <div class="main-green-button">
+                  <p>Make your pet safety with our team.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
@@ -228,8 +228,8 @@
                   <div class="icon"><img src="assets/images/forum.png" alt="forum"></div>
                   <h4>Pet Forum</h4>
                   <div class="line-dec"></div>
-                  <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
-                  <div class="main-green-button">
+                  <p>Join, ask, and chat with many community from around the world.</p>
+                  <div class="main-green-button"><br>
                     <a href="{{ url('login') }}">More!</a>
                   </div>
                 </div>
@@ -266,7 +266,8 @@
               <div class="col-lg-8">
                 <div class="right-content">
                   <h4>Qory Ichsan</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <p>@jquoryy <br> 12th of June 2001 <br>
+                    Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>
@@ -283,7 +284,8 @@
               <div class="col-lg-8">
                 <div class="right-content">
                   <h4>Muhammad Faraby</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <p>@frby7_ <br> 7th of October 2001 <br>
+                    Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>
@@ -300,7 +302,8 @@
               <div class="col-lg-8">
                 <div class="right-content">
                   <h4>Rizki Utami</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <p>@aiiikmrtuz <br> 14th of June 2003 <br>
+                    Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>

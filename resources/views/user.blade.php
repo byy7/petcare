@@ -77,21 +77,6 @@
             </nav>
           </div>
         </div>
-<<<<<<< HEAD
-      </header>
-      <section class="py-11 bg-light-gradient border-bottom border-white border-5">
-        <div class="bg-holder overlay overlay-light" style="background-image:url(assets/img/gallery/header-bg.png);background-size:cover;">
-        </div>
-        <!--/.bg-holder-->
-
-        <div class="container">
-          <div class="row flex-center">
-            <div class="col-12 mb-10">
-              <div class="d-flex align-items-center flex-column">
-                <h1 class="fw-normal"> Flash Sale <b>50%</b> of</h1>
-                <h1 class="fs-4 fs-lg-8 fs-md-6 fw-bold">Best Choice for Your Pet</h1>
-              </div>
-=======
       </div>
     </header>
     <section class="py-4 bg-light-gradient border-bottom border-white border-5">
@@ -105,7 +90,6 @@
             <div class="d-flex align-items-center flex-column">
               <h1 class="fw-normal"> With an outstanding style, only for you</h1>
               <h1 class="fs-4 fs-lg-8 fs-md-6 fw-bold">Exclusively designed for you</h1>
->>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
             </div>
           </div>
         </div>
@@ -115,25 +99,10 @@
     <!-- <section> begin ============================-->
     <section class="py-0">
 
-<<<<<<< HEAD
-        <div class="container">
-          <div class="row g-0">
-            <div class="col-md-6">
-              <div class="card card-span h-100 text-white"> <img class="img-fluid" src="assets/img/gallery/dog.png" width="790" alt="..." />
-                <div class="card-img-overlay d-flex flex-center"> <a class="btn btn-lg btn-light" href="#!">For Her</a></div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="card card-span h-100 text-white"> <img class="img-fluid" src="assets/img/gallery/him.png" width="790" alt="..." />
-                <div class="card-img-overlay d-flex flex-center"> <a class="btn btn-lg btn-light" href="#!">For Him </a></div>
-              </div>
-            </div>
-=======
       <div class="container">
         <div class="row h-100">
           <div class="col-lg-7 mx-auto text-center mt-7 mb-5">
             <h5 class="fw-bold fs-3 fs-lg-5 lh-sm" style="color: #33CCC5;">Best Deals</h5>
->>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
           </div>
           <div class="col-12">
             <div class="carousel slide" id="carouselBestDeals" data-bs-touch="false" data-bs-interval="false">

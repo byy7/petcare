@@ -209,8 +209,8 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="icon"><img src="assets/images/clinic.png" alt="clinic"></div>
                   <h4>Pet Clinic</h4>
                   <div class="line-dec"></div>
-                  <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
-                  <div class="main-green-button">
+                  <p>Get your pet more healthy and more happy.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="/user">More</a>
                   </div>
                 </div>
@@ -223,8 +223,8 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="icon "><img src="assets/images/grooming.png" alt="grooming"></div>
                   <h4>Pet Grooming</h4>
                   <div class="line-dec"></div>
-                  <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
-                  <div class="main-green-button">
+                  <p>Groom your pet with the best service from us.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="/user">More</a>
                   </div>
                 </div>
@@ -237,8 +237,8 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="icon"><img src="assets/images/training.png" alt="training"></div>
                   <h4>Pet Sitter</h4>
                   <div class="line-dec"></div>
-                  <p>If this template is useful for your website, please consider to a little.</p>
-                  <div class="main-green-button">
+                  <p>Make your pet safety with our team.</p>
+                  <div class="main-green-button"><br><br>
                     <a href="/user">More</a>
                   </div>
                 </div>
@@ -251,8 +251,8 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="icon"><img src="assets/images/forum.png" alt="forum"></div>
                   <h4>Pet Forum</h4>
                   <div class="line-dec"></div>
-                  <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
-                  <div class="main-green-button">
+                  <p>Join, ask, and chat with many community from around the world.</p>
+                  <div class="main-green-button"><br>
                     <a href="/user">More</a>
                   </div>
                 </div>
@@ -281,7 +281,9 @@ https://templatemo.com/tm-563-seo-dream
             <div class="row">
               <div class="col-lg-4">
                 <div class="ourteam">
-                  <img class="ourteam" src="assets/images/rai.jpeg" alt="">
+                  <div class="icon">
+                    <img class="ourteam" src="assets/images/rai.jpeg" alt="">
+                  </div> 
                 </div>
               </div>
               <div class="col-lg-8">
@@ -298,13 +300,8 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
             <div class="row">
               <div class="col-lg-4">
-<<<<<<< HEAD
-                <div class="ourteam">
-                  <img class="ourteam" src="assets/images/rai.jpeg" alt="">
-=======
                 <div class="icon">
                   <img src="assets/images/frb.jpg" alt="">
->>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
                 </div>
               </div>
               <div class="col-lg-8">
@@ -321,13 +318,8 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
             <div class="row">
               <div class="col-lg-4">
-<<<<<<< HEAD
-                <div class="ourteam">
-                  <img class="ourteam" src="assets/images/tamik.png" alt="">
-=======
                 <div class="icon">
                   <img src="assets/images/tamik.jpeg" alt="">
->>>>>>> 74d28ef0e0402caae28d7893adfb07a301a1967d
                 </div>
               </div>
               <div class="col-lg-8">

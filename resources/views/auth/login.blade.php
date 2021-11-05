@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+
 <div class="container login">
     {{-- <img src="assets/images/contact-bg.jpg" alt=""> --}}
     <div class="row justify-content-center">
@@ -70,7 +71,7 @@
                         </a>
                         @endif --}}
 
-                        <div class="row text-center">
+                        <div class="row">
                             <div class="col-md-8 offset-md-2">
                                 <a class="navbar-brand" href="{{ url('/') }}">
                                     {{ config('', 'Back to Home') }}
