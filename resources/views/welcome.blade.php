@@ -277,7 +277,7 @@
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/login.jpg" alt="">
+                  <img src="assets/images/frb.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
@@ -294,7 +294,7 @@
             <div class="row">
               <div class="col-lg-4">
                 <div class="icon">
-                  <img src="assets/images/register.jpg" alt="">
+                  <img src="assets/images/tamik.jpeg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
