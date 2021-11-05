@@ -192,7 +192,7 @@ https://templatemo.com/tm-563-seo-dream
           <div class="col-lg-5">
             <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
               <h6>Our Products</h6>
-              <h2>Create an account or Login <em>to discover our product</em> And <span>Forum</span></h2>
+              <h2>Create an account or Login <em>to discover our products</em> And <span>Forum</span></h2>
             </div>
           </div>
         </div>
@@ -211,7 +211,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -225,7 +225,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -237,9 +237,9 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="icon"><img src="assets/images/training.png" alt="training"></div>
                   <h4>Pet Sitter</h4>
                   <div class="line-dec"></div>
-                  <p>If this template is useful for your website, please consider to <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little.</p>
+                  <p>If this template is useful for your website, please consider to a little.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -253,7 +253,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
                   <div class="main-green-button">
-                    <a href="/user">Shop Now!</a>
+                    <a href="/user">More</a>
                   </div>
                 </div>
               </div>
@@ -269,7 +269,7 @@ https://templatemo.com/tm-563-seo-dream
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h2>Let's &amp; <span>Meet &amp; Greet</span> With Our <em>Team</em></h2>
+            <h2>Let's <span>Meet &amp; Greet</span> With Our <em>Team</em></h2>
           </div>
         </div>
       </div>
@@ -280,14 +280,15 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
             <div class="row">
               <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                <div class="ourteam">
+                  <img class="ourteam" src="assets/images/rai.jpeg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
                 <div class="right-content">
-                  <h4>Qory Ichsan</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <h4>Qory</h4>
+                  <p>@jquoryy <br> 12th of June 2001 <br>
+                    Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>
@@ -297,14 +298,15 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
             <div class="row">
               <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                <div class="ourteam">
+                  <img class="ourteam" src="assets/images/rai.jpeg" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
                 <div class="right-content">
-                  <h4>Muhammad Faraby</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <h4>Faraby</h4>
+                  <p>@frby7_ <br> 7th of October 2001 <br>
+                    Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>
@@ -314,14 +316,15 @@ https://templatemo.com/tm-563-seo-dream
           <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
             <div class="row">
               <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/rai.jpeg" alt="">
+                <div class="ourteam">
+                  <img class="ourteam" src="assets/images/tamik.png" alt="">
                 </div>
               </div>
               <div class="col-lg-8">
                 <div class="right-content">
-                  <h4>Rizki Utami</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
+                  <h4>Tami</h4>
+                  <p>@aiiikmrtuz <br> 14th of June 2003 <br>
+                     Student at Sriwijaya Polytechnic</p>
                 </div>
               </div>
             </div>

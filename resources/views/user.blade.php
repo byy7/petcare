@@ -94,8 +94,8 @@
           <div class="row flex-center">
             <div class="col-12 mb-10">
               <div class="d-flex align-items-center flex-column">
-                <h1 class="fw-normal"> With an outstanding style, only for you</h1>
-                <h1 class="fs-4 fs-lg-8 fs-md-6 fw-bold">Exclusively designed for you</h1>
+                <h1 class="fw-normal"> Flash Sale <b>50%</b> of</h1>
+                <h1 class="fs-4 fs-lg-8 fs-md-6 fw-bold">Best Choice for Your Pet</h1>
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@
         <div class="container">
           <div class="row g-0">
             <div class="col-md-6">
-              <div class="card card-span h-100 text-white"> <img class="img-fluid" src="assets/img/gallery/her.png" width="790" alt="..." />
+              <div class="card card-span h-100 text-white"> <img class="img-fluid" src="assets/img/gallery/dog.png" width="790" alt="..." />
                 <div class="card-img-overlay d-flex flex-center"> <a class="btn btn-lg btn-light" href="#!">For Her</a></div>
               </div>
             </div>
