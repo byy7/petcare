@@ -253,7 +253,7 @@ https://templatemo.com/tm-563-seo-dream
                   <div class="line-dec"></div>
                   <p>Join, ask, and chat with many community from around the world.</p>
                   <div class="main-green-button"><br>
-                    <a href="/user">More</a>
+                    <a href="https://linktr.ee/petcareid" target="blank">Join Now</a>
                   </div>
                 </div>
               </div>

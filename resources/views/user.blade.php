@@ -51,7 +51,7 @@
               <!-- ***** Logo End ***** -->
               <!-- ***** Menu Start ***** -->
               <ul class="nav">
-                <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+                <li class="scroll-to-section"><a href="{{ url('home') }}" class="active">Home</a></li>
                 <li class="scroll-to-section"><a href="#categoryWomen">Category</a></li>
                 <li class="scroll-to-section">
                   <div class="main-blue-button"><a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
@@ -114,8 +114,12 @@
                         <div class="card-img-overlay ps-0"> </div>
                         <div class="card-body ps-0 bg-200">
                           <h5 class="fw-bold text-1000 text-truncate text-center">Bigi Cat</h5>
-                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 120.000</span><span class="text-primary">Rp. 75.000</span></div>
-                        </div><a class="stretched-link" href="#"></a>
+                          <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 120.000</span><span class="text-primary">Rp. 75.000</span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="main-green-button text-center"><br>
+                        <a href="https://wa.me/6289670575020" target="blank">Buy Now</a>
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -124,7 +128,10 @@
                         <div class="card-body ps-0 bg-200">
                           <h5 class="fw-bold text-1000 text-truncate text-center">Wooku Wooku</h5>
                           <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 40.000</span><span class="text-primary">Rp. 25.000</span></div>
-                        </div><a class="stretched-link" href="#"></a>
+                        </div>
+                      </div>
+                      <div class="main-green-button text-center"><br>
+                        <a href="https://wa.me/6289670575020" target="blank">Buy Now</a>
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -133,7 +140,10 @@
                         <div class="card-body ps-0 bg-200">
                           <h5 class="fw-bold text-1000 text-truncate text-center">Pumpkin Boost</h5>
                           <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 35.000</span><span class="text-primary">Rp. 28.000</span></div>
-                        </div><a class="stretched-link" href="#"></a>
+                        </div>
+                      </div>
+                      <div class="main-green-button text-center"><br>
+                        <a href="https://wa.me/6289670575020" target="blank">Buy Now</a>
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -142,7 +152,10 @@
                         <div class="card-body ps-0 bg-200">
                           <h5 class="fw-bold text-1000 text-truncate text-center">Dermatrix</h5>
                           <div class="fw-bold text-center"><span class="text-600 me-2 text-decoration-line-through">Rp. 89.000</span><span class="text-primary">Rp. 77.000</span></div>
-                        </div><a class="stretched-link" href="#"></a>
+                        </div>
+                      </div>
+                      <div class="main-green-button text-center"><br>
+                        <a href="https://wa.me/6289670575020" target="blank">Buy Now</a>
                       </div>
                     </div>
                   </div>
@@ -283,7 +296,7 @@
                                   <div class="card-body ps-0 bg-200">
                                     <h5 class="fw-bold text-1000 text-truncate text-center">Frontliner</h5>
                                     <div class="fw-bold text-center"><span class="text-primary">Rp. 200.000</span></div>
-                                  </div><a class="stretched-link" href="#"></a>
+                                  </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                                 </div>
                               </div>
                               <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -292,7 +305,7 @@
                                   <div class="card-body ps-0 bg-200">
                                     <h5 class="fw-bold text-1000 text-truncate text-center">Kind Kind</h5>
                                     <div class="fw-bold text-center"><span class="text-primary">Rp. 75.000</span></div>
-                                  </div><a class="stretched-link" href="#"></a>
+                                  </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                                 </div>
                               </div>
                               <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -301,7 +314,7 @@
                                   <div class="card-body ps-0 bg-200">
                                     <h5 class="fw-bold text-1000 text-truncate text-center">Revolution</h5>
                                     <div class="fw-bold text-center"><span class="text-primary">Rp. 90.000</span></div>
-                                  </div><a class="stretched-link" href="#"></a>
+                                  </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                                 </div>
                               </div>
                               <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -310,7 +323,7 @@
                                   <div class="card-body ps-0 bg-200">
                                     <h5 class="fw-bold text-1000 text-truncate text-center">veterinary</h5>
                                     <div class="fw-bold text-center"><span class="text-primary">Rp. 170.000</span></div>
-                                  </div><a class="stretched-link" href="#"></a>
+                                  </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                                 </div>
                               </div>
                             </div>
@@ -341,7 +354,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Pro Plan</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 230.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -350,7 +363,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Royal Canin</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 460.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -359,7 +372,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Felibite</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 120.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -368,7 +381,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Friskies</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 180.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
@@ -392,7 +405,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Bio Line</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 20.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -401,7 +414,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Meow Plus</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -410,7 +423,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Bio</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -419,7 +432,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Pro-V</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 60.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
@@ -443,7 +456,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Cage C221</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 320.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -452,7 +465,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Medium Cage</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 250.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -461,7 +474,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Large Cage</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 350.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -470,7 +483,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Transparant Cage</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 450.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
@@ -494,7 +507,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Me-O</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 35.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -503,7 +516,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Sheba</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 34.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -512,7 +525,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Super Cat</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 26.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -521,7 +534,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Bio Snack</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 15.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
@@ -545,7 +558,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Silicat</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 26.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -554,7 +567,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Kit Cat</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 45.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -563,7 +576,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Fifi Litter</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 25.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -572,7 +585,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Cats Best</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 40.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
@@ -596,7 +609,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Beaphar</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 30.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -605,7 +618,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Top Growth</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 36.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -614,7 +627,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Royal</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 34.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                         <div class="col-sm-6 col-md-3 mb-3 mb-md-0 h-100">
@@ -623,7 +636,7 @@
                             <div class="card-body ps-0 bg-200">
                               <h5 class="fw-bold text-1000 text-truncate text-center">Ameri</h5>
                               <div class="fw-bold text-center"><span class="text-primary">Rp. 20.000</span></div>
-                            </div><a class="stretched-link" href="#"></a>
+                            </div><a class="stretched-link" href="https://wa.me/6289670575020" target="blank"></a>
                           </div>
                         </div>
                       </div>
